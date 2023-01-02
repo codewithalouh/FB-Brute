@@ -4,7 +4,7 @@ import os
 try:
   import colorama, requests, hashlib, pycrypto, telegram
   os.system("clear")
-  os.system("python3 fbhack.py")
+  os.system("python3 main.py")
   
 
 except:
@@ -14,6 +14,6 @@ except:
   os.system("pip3 install requests")
   os.system("pip3 install python-telegram-bot")
   os.system("clear")
-  os.system("python3 fbhack.py")
+  os.system("python3 main.py")
   
   

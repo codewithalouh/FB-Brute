@@ -1,5 +1,6 @@
 import os
 import requests
+import telegram
 import hashlib
 from Crypto.Cipher import AES
 
